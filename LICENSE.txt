@@ -1,0 +1,33 @@
+Formiflow 0.1
+Autor: José Antonio Rivero García-Saavedra
+Esta licencia aplica al software Formiflow 0.1 :
+Licencia Pública Administrativa (LPA)
+Versión de la licencia 1.0
+1. Objeto y ámbito de aplicación
+El presente software es licenciado bajo los términos de la Licencia Pública Administrativa (LPA), cuyo propósito es facilitar su uso, instalación, modificación y redistribución exclusivamente en el ámbito de las Administraciones Públicas, manteniéndose reservados todos los derechos en los demás supuestos.
+2. Licencia para Administraciones Públicas
+Se concede a las Administraciones Públicas una licencia gratuita, no exclusiva, mundial y perpetua para:
+•	Usar el software con cualquier fin institucional o administrativo.
+•	Modificar el software, con obligación de reconocer al autor original y al software base.
+•	Redistribuir versiones originales o modificadas, exclusivamente dentro del ámbito de otras Administraciones Públicas, con los mismos términos de esta licencia.
+A efectos de esta licencia, se entiende por "Administración Pública" toda entidad perteneciente al sector público estatal, autonómico, local o institucional (organismos autónomos, entes públicos, etc.).
+3. Acceso al código por terceros
+Se permite el acceso público al código fuente del software. Sin embargo:
+•	No se concede ningún derecho de uso, modificación o redistribución a entidades o personas distintas de las Administraciones Públicas, salvo lo dispuesto en los apartados siguientes.
+•	Los terceros podrán instalar el software en nombre de una Administración Pública, o modificarlo para su uso exclusivo en dicha Administración, pero no adquieren por ello ningún derecho de uso, propiedad o explotación sobre el software ni sobre sus versiones modificadas.
+•	Toda modificación deberá mantener el reconocimiento al autor original y no podrá presentarse como una obra completamente nueva o desvinculada.
+4. Reconocimiento del autor
+Cualquier copia, modificación o redistribución del software dentro del ámbito permitido por esta licencia deberá:
+•	Mantener los avisos de autoría originales.
+•	Incluir una mención clara al software base en cualquier documentación o presentación derivada.
+5. Revocación de la licencia
+Esta licencia podrá considerarse automáticamente revocada en caso de:
+•	Uso malicioso del software para causar daño a terceros.
+•	Incumplimiento de los términos establecidos en esta licencia.
+•	Suplantación de autoría o eliminación del reconocimiento al autor original.
+La revocación no impide que se exijan responsabilidades legales adicionales.
+6. Ausencia de garantía
+Este software se proporciona "tal cual", sin garantías de ningún tipo, expresas o implícitas. El autor no será responsable de daños directos o indirectos derivados del uso del software.
+7. Ley aplicable y jurisdicción
+Esta licencia se regirá por la legislación española. Cualquier disputa se someterá a los tribunales de Madrid (España).
+
